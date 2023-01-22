@@ -1,3 +1,3 @@
-# odin-recipes
+# Landing Page
 
-This is first project form Odin course. Iam going to train my HTML skills.
+This is second project form Odin course.
