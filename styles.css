@@ -1,0 +1,33 @@
+
+header {
+    display:flex;
+    justify-content: space-around;
+    background-color: #1F2937;
+    color: white;
+    
+
+
+}
+
+.header-logo-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 24px;
+    color: #f9faf8;
+    font-weight: bold;
+    
+}
+
+.header-menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    gap: 16px;
+    font-size: 18px;
+    color: #E5E7EB;
+
+
+}
